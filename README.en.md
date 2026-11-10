@@ -22,7 +22,4 @@ Screen Tuner is an Android display color adjustment app designed primarily for t
 
 This app uses privileged display controls. Root access and display tuning can affect device behavior. Use it at your own risk. The app is provided for learning and personal use, without warranty.
 
-## APK Verification
 
-File: `screen-tuner-1.10.0.apk`  
-SHA-256: `BD4E351CA4AFC48BDA65D16BDD17528701636F73CD1CF48E25160E53D26F2F5A`
