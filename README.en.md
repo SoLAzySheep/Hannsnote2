@@ -1,4 +1,4 @@
-# Screen Tuner 1.10.0
+# Screen Tuner
 
 | [简体中文](README.zh-CN.md) | **English** |
 |:---:|:---:|
